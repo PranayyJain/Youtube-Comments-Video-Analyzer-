@@ -1,0 +1,7 @@
+streamlit
+pandas>=1.5.0
+nltk
+plotly
+colorama
+google-api-python-client
+protobuf 

@@ -1,0 +1,12 @@
+streamlit
+pandas>=1.5.0
+nltk
+plotly
+colorama
+google-api-python-client
+protobuf
+transformers
+torch
+emoji
+langdetect
+googletrans==4.0.0rc1
