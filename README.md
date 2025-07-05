@@ -69,7 +69,7 @@ streamlit run app.py
     Visit Google Cloud Console
     Enable YouTube Data API v3
     Create an API key
-# .streamlit/secrets.toml
+
 YOUTUBE_API_KEY = "your_actual_api_key_here"
 
 ### Run the application
